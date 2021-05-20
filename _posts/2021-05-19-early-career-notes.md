@@ -7,11 +7,11 @@ tags:
 last_modified_at: 2020-01-14
 ---
 
-Entering the professional world can be a challenging transition. It's a different environment with a more rigid team structure, and it's often the first time individuals work closely with others outside of their peer group with shared experiences. These are the lessons that took me a bit to learn, but found the most valuable
+Entering the professional world can be a challenging transition. It's a different environment with a more rigid team structure, and it's often the first time individuals work closely with others outside of their peer group with shared experiences. These are the lessons that took me a bit to learn, but found the most valuable.
 
 ### 1. It's all about the people
 
-Except in rare cases, companies are almost always a group of people working together toward a common goal. The bigger an organization gets, the more people have to work together (and agree) to accomplish something. This is a common reason why clearly good ideas don't always find their footing in different companies, and why it's not enough to simply do "good work" and expect a good results - both for the company and for your own personal career. As a note
+Except in rare cases, companies are almost always a group of people working together toward a common goal. The bigger an organization gets, the more people have to work together (and agree) to accomplish something. This is a common reason why clearly good ideas don't always find their footing in different companies, and why it's not enough to simply do "good work" and expect a good results - both for the company and for your own personal career.
 
 Even more importantly, working with friendly and reasonable people can be a primary reason you enjoy your job. Conversely, working with aggressive and unreasonable people is almost certainly a reason to not enjoy your job.
 
