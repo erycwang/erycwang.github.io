@@ -1,6 +1,7 @@
 ---
 title: "Custom Linux setups with AI and the future of abundant software"
-pubDatetime: 2026-03-27
+pubDatetime: 2026-03-27T00:00:00Z
+description: "What rolling my own Linux distro taught me about building software in the age of AI."
 draft: false
 ---
 
@@ -37,11 +38,13 @@ Installing CachyOS on my MacBook was pretty easy; following the instructions on 
 
 ## Building my own memory system - a basic agent harness
 
-First, I prompted Claude to look through my system and collect information about the system. It already knew I had installed CachyOS because I had resumed prior Claude Code session from MacOS. From there, it was only a matter of a few bash commands to explore what was installed along some standard categories of software (compositor, desktop environment, drivers, etc.)
+First, I prompted Claude to look through my system and collect information about the system. Claude ran a few bash commands to explore what was installed along some standard categories of software (compositor, desktop environment, drivers, etc.).
 
 ![Initial Setup.md](/home/ericw/Projects/erycwang.github.io/public/assets/blog/linux-blog/initial-setup-md.png)
 
-Then, I had it start a changelog for a more descriptive set of the changes that it was making. This is a little bit redundant to git and commit messages, but I haven't figured out a good way to incorporate that data into the context yet, so I figured I'd start with a markdown file. After each change I made, I asked Claude to commit, push
+Then, I had it start a changelog for a more descriptive set of the changes that it was making. This is a little bit redundant to git and commit messages, but I haven't figured out a good way to incorporate that data into the context yet, so I figured I'd start with a markdown file. After each change I made, I asked Claude to update the changelog, commit, and push it to Github.
+
+This became really important before
 
 ### Memory means that memory maintanence becomes a real problem
 
