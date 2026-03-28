@@ -7,10 +7,10 @@ draft: false
 
 ---
 Tl;dr learnings
+- Building your own desktop is the definition of abundant software, but it also means that you need to maintain it. Throw hardware differences in the mix, and there are clear reasons why you would still want to buy something that works every time instead of building it
 - Validation is critical to the agentic loop, and physical frontiers stil force humans in the loop
 - Product and Design are as much a laggard in the agentic loop as validation is; deciding what to work on and when it's done needs to be modeled in agent orchestration
 - Project memory is important but imperfect; a combination of markdown files and git can work as a simple, declarative memory system. However, it then becomes important to keep your memory up-to-date - memory rot can cause hallucinations
-- Building your own desktop is the definition of abundant software, but it also means that you need to maintain it. Throw hardware differences in the mix, and there are clear reasons why you would still want to buy something that works every time instead of building it
 ---
 
 # I use Arch, btw
@@ -61,7 +61,7 @@ I faced this problem again when customizing the appearance of my desktop with Cl
 
 ### Memory means that memory maintenance becomes a real problem
 
-As I was making changes and updating my home-grown memory layer, I quickly started experience memory rot. The model would sometimes add information about different approaches that it attempted, which would often create red-herrings in the context. Half-way through my implementation, Claude.ai released the memory feature for it's chat app. I started experiencing it there too - when asking it to help me plan a trip, it would remember certain preferences I had in a prior prompt, which guided it's research and results away from the more generative research I wanted when starting a new session.
+As I was making changes and updating my home-grown memory layer, I quickly started experiencing memory rot. The model would sometimes add information about different approaches that it attempted, which would often create red-herrings in the context. Half-way through my implementation, Claude.ai released the memory feature for it's chat app. I started experiencing it there too - when asking it to help me plan a trip, it would remember certain preferences I had in a prior prompt, which guided it's research and results away from the more generative research I wanted when starting a new session.
 
 Memory can be helpful in the project context, but it means that we need to keep the memory clean and relevant at all times. Claude is trying to solve this with the /dream feature, released a few days before this writing. Can't wait to check it out!
 
