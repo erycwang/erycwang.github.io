@@ -8,7 +8,7 @@ draft: false
 ---
 Tl;dr learnings
 - Building your own desktop is the definition of abundant software, but it also means that you need to maintain it. Throw hardware differences in the mix, and there are clear reasons why you would still want to buy something that works every time instead of building it
-- Validation is critical to the agentic loop, and physical frontiers stil force humans in the loop
+- Validation is critical to the agentic loop, and physical frontiers force humans to stay in the loop
 - Product and Design are as much a laggard in the agentic loop as validation is; deciding what to work on and when it's done needs to be modeled in agent orchestration
 - Project memory is important but imperfect; a combination of markdown files and git can work as a simple, declarative memory system. However, it then becomes important to keep your memory up-to-date - memory rot can cause hallucinations
 ---
@@ -97,3 +97,5 @@ From this experience, have a bit of a new view on the recent narrative around Sa
 - *Maintaining software is hard:* especially with non-standard hardware, it can be a pain to operate and maintain your software at scale. This is probably particularly true for developer products where high volume data is a given
 
 Sometimes, you just want something to work every time. And sometimes you don't want to think about how your CRM should handle edge cases when updating an account, just like most people don't want to build their own weather widget. Even though Linux ricing is more accessible than ever, there are things that most consumers won't want to build twice - it would be easier to buy from Apple, who has their software and hardware unified so things "just work".
+
+Still, I had a great experience ricing Linux with Claude, and I'm hopeful more people will do this with their own machines in the future. It's a great free, privacy-focused alternative to Windows 11 bloat and Apple's declining support for Intel MacBooks.
