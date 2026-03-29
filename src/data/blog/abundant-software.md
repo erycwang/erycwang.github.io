@@ -91,7 +91,7 @@ In total, I probably installed and wired up at least 10 features to get the comp
 
 ## A note on the SaaSpocalypse
 
-From this experience, have a bit of a new view on the recent narrative around SaaS dying because AI agents can roll their own. If this were true, why did Anthropic buy Datadog? Or Ramp? I think it's because:
+From this experience, I have a new view on the recent narrative and market sell-off of SaaS stocks because AI can roll their own services. If this were true, we would only need to look at Anthropic's recent contracting of Datadog as a counterpoint. I think it's becuase:
 
 - *Edge cases are everywhere:* Even when building something as simple as a status bar, I ran into numerous edge-cases that took another LLM cycle to think through, with varying results.
 - *Maintaining software is hard:* especially with non-standard hardware, it can be a pain to operate and maintain your software at scale. This is probably particularly true for developer products where high volume data is a given
